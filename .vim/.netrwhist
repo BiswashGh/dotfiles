@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/biswash/pypi'
+let g:netrw_dirhist_2='/mnt/c/Users/busyb/Desktop/BiswashGh.github.io/.git'
+let g:netrw_dirhist_3='/home/biswash/dotfiles'
